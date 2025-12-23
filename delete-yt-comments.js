@@ -1,4 +1,4 @@
-// Open F12, Developer Tools when you are on this page which shows all youtube comments https://myactivity.google.com/
+// Open F12, Developer Tools when you are on this page which shows all youtube comments https://myactivity.google.com/ ; using this thread as reference https://www.reddit.com/r/youtube/comments/1decmnz/delete_all_comment_history/
 
 let sleep = time => new Promise(res => setTimeout(res, time, "done sleeping"));
 
